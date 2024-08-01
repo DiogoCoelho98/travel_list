@@ -18,7 +18,7 @@ Travel List is a practical React application designed to help users manage their
 ## Getting Started
 ### Installation
 ```
-git clone https://github.com/DiogoCoelho98/Travel_List.git
+git clone https://github.com/DiogoCoelho98/travel_list.git
 cd Travel_List
 ```
 ```
@@ -32,7 +32,7 @@ npm install
 - Use the delete option to remove items from the list.
 - Sort items to better organize your packing.
 - Check off items as you pack them to keep track of what’s done.
-- 
+
 ## Contacts
 - **[LinkedIn](https://www.linkedin.com/in/diogo-borges-coelho/)**
 - **diogocoelho19988@gmail.com**
