@@ -17,3 +17,23 @@ Travel List is a practical React application designed to help users manage their
 
 ## Getting Started
 ### Installation
+```
+git clone https://github.com/DiogoCoelho98/Travel_List.git
+cd Travel_List
+```
+```
+npm install
+```
+1. View Travel List in your browser
+- Open your web browser and navigate to http://localhost:3000 (or another port you specified).
+
+### Usage
+- Add items to your travel list using the provided form.
+- Use the delete option to remove items from the list.
+- Sort items to better organize your packing.
+- Check off items as you pack them to keep track of what’s done.
+- 
+## Contacts
+- **[LinkedIn](https://www.linkedin.com/in/diogo-borges-coelho/)**
+- **diogocoelho19988@gmail.com**
+
